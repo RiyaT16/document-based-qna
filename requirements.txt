@@ -1,0 +1,7 @@
+fitz==0.0.1.dev2
+Flask==3.1.1
+langchain==0.3.25
+langchain_google_genai==2.1.5
+numpy==2.2.6
+python-dotenv==1.1.0
+sentence_transformers==4.1.0
